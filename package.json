@@ -1,0 +1,28 @@
+{
+  "name": "deliveryapi",
+  "version": "1.0.0",
+  "description": "API para controle de transacoes do app delivery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoFloresLima/deliveryApi.git"
+  },
+  "keywords": [
+    "cadastro",
+    "pesquisas",
+    "api"
+  ],
+  "author": "flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenatoFloresLima/deliveryApi/issues"
+  },
+  "homepage": "https://github.com/RenatoFloresLima/deliveryApi#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+  
+}
