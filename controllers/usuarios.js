@@ -2,7 +2,7 @@
 module.exports = function(app){
     app.get('/usuarios', function(req, res){
         console.log('Recebida requisição de teste na porta 3000.')
-        res.send('Teste');
+        res.send('Teste 2');
     });
 
     app.post('/usuarios/usuario', function(req, res){
